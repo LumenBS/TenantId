@@ -2,5 +2,9 @@
   {
     "entraTenantId": "de979e96-d7d7-4174-bf41-5d5e531e3c55",
     "tenantDescription": "Civitas Development Tenant"
-  }
+  },
+    {
+    "entraTenantId": "c0c7dc89-3ca5-4565-aac6-397d06363c8e",
+    "tenantDescription": "GemeenteAlkmaar-ACC"
+  },
 ]
